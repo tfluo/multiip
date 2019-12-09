@@ -1,3 +1,5 @@
+import math
+
 def splitby2(x):
   '''
   split x to a power polynomial of 2
